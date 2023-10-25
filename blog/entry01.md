@@ -16,6 +16,7 @@ For this project time management is pretty important since there is a lot of res
 #### How to google
 When I used google I would search for _technology in construction_ and it would give me articles like ["CII - Construction Technology"](https://www.construction-institute.org/resources/knowledgebase/knowledge-areas/construction-technology) which just gives me a general idea. So i switched my search to _technology used in construction_ helped me find what I was looking for. 
 
+
 [Next](entry02.md)
 
 [Home](../README.md)
