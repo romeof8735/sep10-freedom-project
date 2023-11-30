@@ -11,10 +11,10 @@ The google search that I used to find some apps was "Construction Apps" and the 
 With my engineering design process im first going to see **how many people know about these softwares and hardwares.** After I see how popular or unpopular these apps and gadgets are I am either going to find one that is less popular are stay with these. 
 
 ### Skills 
-The skills that I have learned while working on my blog is **.**
+The skills that I have learned while working on my blog is **consideration and creativity.**
 
-
-
+#### Consideration and creativity skill
+This project helped me work on my consideration skill since when I was researching about these softwares and hardwares I though _"how can these things help people"_. So I started to look for things that could help the constructors reduce time and increase efficiency  all while being protected at the same time. With these creativity hardware and software ideas it will help make construction advance in the world of technology.
 
 [Previous](entry01.md) | [Next](entry03.md)
 
