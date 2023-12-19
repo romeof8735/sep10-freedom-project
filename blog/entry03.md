@@ -13,6 +13,11 @@ Technology can help not only speed up construction time but it can also help kee
 ### Present tech inventions that can help in construction
 The first software app I found was called [LetsBuild](https://www.letsbuild.com/).This app can track information on project progression. It can generate progress reports and other necessary documents. It can also track any progress and share it in real time even if you are outside or inside. This app offers a free trial then annual subscriptions and you should contact them first to see what is the best package for what you will be doing.
 [Image for app](https://www.letsbuild.com/wp-content/uploads/2023/09/letsbuild-devices2x.png)
+The second software app I looked at was called [Fieldwire](https://www.fieldwire.com/). This app is a tool that focuses on blueprint management. With this app users can markup drawings, add notes, and attach or view photos of projects of the process directly. This app can also schedule construction work for the day with the project plans. There is a free plan with a 5 user limit then a plan starts at $29 a user each month. [Image for app](https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/863765fa-dc64-4acc-80a0-54650c4cff9f.png)
+
+### Present 
+
+
 
 
 
