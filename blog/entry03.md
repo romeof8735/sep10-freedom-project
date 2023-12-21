@@ -14,8 +14,22 @@ Technology can help not only speed up construction time but it can also help kee
 The first software app I found was called [LetsBuild](https://www.letsbuild.com/).This app can track information on project progression. It can generate progress reports and other necessary documents. It can also track any progress and share it in real time even if you are outside or inside. This app offers a free trial then annual subscriptions and you should contact them first to see what is the best package for what you will be doing.
 [Image for app](https://www.letsbuild.com/wp-content/uploads/2023/09/letsbuild-devices2x.png)
 The second software app I looked at was called [Fieldwire](https://www.fieldwire.com/). This app is a tool that focuses on blueprint management. With this app users can markup drawings, add notes, and attach or view photos of projects of the process directly. This app can also schedule construction work for the day with the project plans. There is a free plan with a 5 user limit then a plan starts at $29 a user each month. [Image for app](https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/863765fa-dc64-4acc-80a0-54650c4cff9f.png)
+The first hardware gadget that I found was called the [Sonetics Bluetooth headset](https://www.sonetics.com/industries/construction/). This gadget allows for the team to communicate with each other and work both at the same time allowing for better communication and better construction work. The headsets have a total of a whole two miles bluetooth range of communication and you can control how much noise gets in and out of the headset. You can also use the gadget in any type of condition and it will work perfectly fine. [Image](https://wapcodistribution.com/wp-content/uploads/2016/04/dect7bluetooth-1.jpg) 
+The second hardware gadget that I found was called [Safety Gasses from Xoeye](https://xoi.io/). These safety glasses have cameras embedded in them that can not only record progress but it can also be projected onto a screen. When these glasses have wifi access it allows construction workers to perform precise tasks such as using 3d mapping schematics. These glasses not only increase efficiency but they also help avoid costly mistakes. [Image](https://images.techhive.com/images/article/2014/04/dsc_2005-100260132-orig.jpg)
+The third hardware gadget that I found was called [Construction Drone](https://kespry.com/aerial-intelligence/industries/construction/). This gadget can help create contour maps, site plans, site surveys, model renderings and other useful real time documentations.Workers can use drones to visually inspect any area or monitor progress. The drone is able to monitor hundreds of acres while also conducting activities such as surveys without needing to be interacted with. After the drone collects necessary data it can then upload that data to the cloud platform so that it can be processed according to the needs of the project. [Image](https://www.dartdrones.com/wp-content/uploads/2021/05/shutterstock_685922518.jpg)
 
-### Present 
+### Future tech inventions that can help in construction
+#### Advanced Drone 
+Can scan land and give a 3d descriptive perspective about it. It would be able to scan the land in under 1 minutes. The scan can even see underground to see if everything is stable. The drone is also able to give project managers real time progress reports in one click of a button. When the drone goes too far out of range it automatically fly back to the person in control. Send real time pictures and videos straight to your phone. Automatically delete duplicate pictures or videos.
+#### Tech Safety glasses
+These glasses are able to give workers information based on the project on a virtual heads up display. The virtual heads up display can also provide workers with persist calculations, measurements, etc. These tech glasses would also be equipped with sensors that can detect if something is coming at the worker. The glasses are also able to help the worker build where they need to and use specific tools via the heads up display to guide them. Able to deem as sunglasses based on the sunlight present. Able to google something when you speak to it.
+
+### Engineering Design Process
+
+
+
+
+ 
 
 
 
