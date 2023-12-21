@@ -25,7 +25,16 @@ Can scan land and give a 3d descriptive perspective about it. It would be able t
 These glasses are able to give workers information based on the project on a virtual heads up display. The virtual heads up display can also provide workers with persist calculations, measurements, etc. These tech glasses would also be equipped with sensors that can detect if something is coming at the worker. The glasses are also able to help the worker build where they need to and use specific tools via the heads up display to guide them. Able to deem as sunglasses based on the sunlight present. Able to google something when you speak to it.
 
 ### Engineering Design Process
+With my engineering design process I am going to see **how many people agree with these future construction inventions**. Based on how many people agree vs disagree then I would revise my inventions to make them even better. After I revise the inventions I am going to try and see how much they would benefit the construction process and how long it would take for these inventions to be created.
 
+### Skills
+The skills that have mainly improved while doing this blog is **how to read** and **organization**.
+
+#### How to read 
+While I was researching for all these software's and hardware's I had to make sure to get accurate infomation. While I was reading thru all the different websites I had to look specifily on how these softwares and hardwares could benefit in present day construction.
+
+#### Organization 
+While I was researching thru the websites I was taking notes and writing down my ideas about their apps and gadets down in my sep 10 notes. In my notes I was also organizing them with bullet points and making sure to include the websites link.  
 
 
 
