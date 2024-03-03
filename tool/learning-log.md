@@ -18,8 +18,7 @@ Tool: **SASS**
 * One thing that I thought was pretty cool is that if you remember anything that we did in code.org when we were in 9th grade was that we would use things such as if or else and in SASS functions they also use that same if or else
 * If you want to watch a bit longer video of someone explaining these things in detail I would recommend watching this [20 minute video](https://www.youtube.com/watch?v=Zz6eOVaaelI)
 
-3/2/24:
-* 
+
 
 
 <!--
