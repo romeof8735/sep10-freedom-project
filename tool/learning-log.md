@@ -31,7 +31,27 @@ Tool: **SASS**
   &:last-child
     overflow: hidden
 ```
-* This code extends the media to where ever u want
+* This code allows for the media to become more flexable on where you want to put it
+
+3/18/24:
+* Similar to the placeholders we also have `@extend`
+* What @extend does is that it shares the properties of one CSS code with another one, for example:
+```
+.button-basic  {
+  border: none;
+  padding: 15px 30px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.button-report  {
+  @extend .button-basic;
+  background-color: red;
+}
+```
+* The @extend here takes all the properties that are in ".button-basic" and shares them in ".button-report"
+* By doing it saves you the time of having to copy and paste all of the previous code if you wanted to use it again
 
 <!--
 * Links you used today (websites, videos, etc)
