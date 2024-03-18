@@ -19,7 +19,19 @@ Tool: **SASS**
 * If you want to watch a bit longer video of someone explaining these things in detail I would recommend watching this [20 minute video](https://www.youtube.com/watch?v=Zz6eOVaaelI)
 
 
-
+3/10/24:
+* With SASS you can have placeholders.
+* These placeholders are useful for writing code that you dont want to repeat over and over
+* one example is:
+```
+%media
+  overflow: hidden
+  &:first-child
+    float: left
+  &:last-child
+    overflow: hidden
+```
+* This code extends the media to where ever u want
 
 <!--
 * Links you used today (websites, videos, etc)
