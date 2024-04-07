@@ -35,7 +35,7 @@ Tool: **SASS**
 
 3/18/24:
 * Similar to the placeholders we also have `@extend`
-* What @extend does is that it shares the properties of one CSS code with another one, for example:
+* What @extend does is that it shares the properties of one CSS code with another one, for example, this code from w3schools:
 ```
 .button-basic  {
   border: none;
@@ -52,6 +52,37 @@ Tool: **SASS**
 ```
 * The @extend here takes all the properties that are in ".button-basic" and shares them in ".button-report"
 * By doing it saves you the time of having to copy and paste all of the previous code if you wanted to use it again
+* [Link to the w3school code](https://www.w3schools.com/sass/sass_extend.php)
+
+
+4/7/24:
+* I learned what @mixin can do. What it does is it lets you create CSS code that is to be reused throughout the website.
+* I also learned that @include was created to let you use the @mixin.
+* One example of me tinker with this was:
+```
+@mixin border {
+  margin: 5;
+  padding: 5;
+}
+
+@mixin horizontal-list {
+  @include border;
+
+  li {
+    display: inline-block;
+    margin: {
+      right: -8px;
+      left: 5em;
+    }
+  }
+}
+```
+* This code uses @include to include the css from the border into where ever u place it.
+* The @mixin is used as a class that can be reused. 
+
+
+
+
 
 <!--
 * Links you used today (websites, videos, etc)
