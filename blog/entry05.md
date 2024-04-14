@@ -53,7 +53,13 @@ I learned what @mixin can do. What it does is it lets you create CSS code that i
 ```
 This code uses @include to include the css from the border into where ever u place it. The @mixin is used as a class that can be reused. 
 
+### Skills
 
+### How to tinker
+I crated a new repo and transferred it to my ide and in there I was messing around with those code snippets above and trying to change eatch line to see what difference it would make. 
+
+### Time Management 
+I planned out what days I would do certains things such as when I would do the tinkering, what I would tinker on, and when to have a break if there is time.
 
 [Previous](entry04.md) | [Next](entry06.md)
 
