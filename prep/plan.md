@@ -5,7 +5,7 @@
 * [Desktop](https://wireframe.cc/VqpClz)
 
 ## Colors
-* `#ABC123`
+* `black`
 
 ## Fonts
 * [Noto Serif](<link rel="preconnect" href="https://fonts.googleapis.com">
