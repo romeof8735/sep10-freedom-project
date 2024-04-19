@@ -14,8 +14,9 @@
 )
 
 ## Timeline
-4/16 I will finish the plan.md
-4/17 I will start coding
+4/16 I will start the plan.md
+4/18 I will finish the plan.md
+4/19 I will start coding
 
 #### MVP
 
