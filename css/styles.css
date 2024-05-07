@@ -10824,3 +10824,38 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+
+.sonetics {
+  max-width: 70%;
+  max-height: 73%;
+}
+
+.glasses {
+  max-width: 70%;
+  max-height: 73%;
+}
+
+.drone {
+  max-width: 70%;
+  max-height: 73%;
+}
+
+.sedan-regular {
+  font-family: "Sedan", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.sedan-regular-italic {
+  font-family: "Sedan", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.body {
+  font-family: "Sedan", serif !important;
+}
+
+.h1 {
+  font-family: "Sedan", serif !important;
+}
