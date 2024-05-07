@@ -20,10 +20,13 @@
 
 #### MVP
 
-* Task/Timeline
+* Get all my information onto the website
+* Make sure that I can see the website and load the website link
 
 ---
 
 #### Beyond MVP
 
-* Task
+* Make website images fit for both desktop and mobile devices.
+* Use the font size
+* Try to use a little bit of more SASS
