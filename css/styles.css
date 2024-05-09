@@ -9247,14 +9247,6 @@ textarea.form-control-lg {
   .ps-md-0 {
     padding-left: 0 !important;
   }
-.glasses {
-  max-width: 70%;
-  max-height: 73%;
-}
-.drone {
-  max-width: 70%;
-  max-height: 73%;
-}
   .ps-md-1 {
     padding-left: 0.25rem !important;
   }
@@ -10839,10 +10831,12 @@ textarea.form-control-lg {
 }
 
 .glasses {
- @extend .sonetics
+  max-width: 70%;
+  max-height: 73%;
 }
 
 .drone {
-  @extend .sonetics
+  width: 70%;
+  height: 73%;
 }
 
