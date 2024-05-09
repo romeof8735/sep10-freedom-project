@@ -9247,6 +9247,14 @@ textarea.form-control-lg {
   .ps-md-0 {
     padding-left: 0 !important;
   }
+.glasses {
+  max-width: 70%;
+  max-height: 73%;
+}
+.drone {
+  max-width: 70%;
+  max-height: 73%;
+}
   .ps-md-1 {
     padding-left: 0.25rem !important;
   }
@@ -10831,31 +10839,10 @@ textarea.form-control-lg {
 }
 
 .glasses {
-  max-width: 70%;
-  max-height: 73%;
+ @extend .sonetics
 }
 
 .drone {
-  max-width: 70%;
-  max-height: 73%;
+  @extend .sonetics
 }
 
-.sedan-regular {
-  font-family: "Sedan", serif;
-  font-weight: 400;
-  font-style: normal;
-}
-
-.sedan-regular-italic {
-  font-family: "Sedan", serif;
-  font-weight: 400;
-  font-style: italic;
-}
-
-.body {
-  font-family: "Sedan", serif !important;
-}
-
-.h1 {
-  font-family: "Sedan", serif !important;
-}
