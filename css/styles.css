@@ -8148,7 +8148,14 @@ textarea.form-control-lg {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-warning-rgb), var(--bs-bg-opacity)) !important;
 }
-
+.glasses {
+  max-width: 70%;
+  max-height: 73%;
+}
+.drone {
+  width: 70%;
+  height: 73%;
+}
 .bg-danger {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-danger-rgb), var(--bs-bg-opacity)) !important;
@@ -10831,12 +10838,12 @@ textarea.form-control-lg {
 }
 
 .glasses {
-  max-width: 70%;
-  max-height: 73%;
+  @extend .sonetics;
 }
 
 .drone {
-  width: 70%;
-  height: 73%;
-}
+  @extend .sonetics;
+{
+
+
 
